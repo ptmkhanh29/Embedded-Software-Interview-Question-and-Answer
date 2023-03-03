@@ -17,9 +17,15 @@ By using pointer, embedded C program can perform operation such as:
 - Call by reference.
 - And implementing tree, graphs, linked list and many other data structure. 
 
-**. What is use Const keyword?**
+**3. What is use Const keyword?**
 
 **Answer:** Const keyword is used to declares a variable as read-only. Its value cannot be changed once it has been initialized. 
 Const keyword:
 - Can help prevent accidental programing change to important variable. 
 - And help optimize program memory usage.
+
+**4. What is Pointer to constand and Constant Pointer?**
+
+**Answer:**
+- **Pointer to constant:** This is a pointer can point to an address. This pointer can be change the addresss it point to. But, cannot change the value at the address it is pointing to. 
+- **Constant pointer:** This is a pointer 
